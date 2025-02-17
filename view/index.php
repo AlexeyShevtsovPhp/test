@@ -68,7 +68,6 @@ use app\Pagination;
     <div class="form-submit">
         <button id="submitButton" type="submit">Принять</button>
     </div>
-    <div>abc</div>
 </form>
 </body>
 </html>
